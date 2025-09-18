@@ -110,7 +110,7 @@ python main.py mcts --model models/finetuned.pth --design bp_be_orig.txt --recip
 
 ---
 
-## 📊 Results Comparison
+## Results Comparison
 <p align="center">
   <img src="assets/Comparison.png" alt="Comparison of Our Model vs Baselines" width="700"/>
 </p>
@@ -118,6 +118,6 @@ python main.py mcts --model models/finetuned.pth --design bp_be_orig.txt --recip
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * [ABC Synthesis Tool](https://people.eecs.berkeley.edu/~alanmi/abc/)
